@@ -1,0 +1,3 @@
+C:/Users/seven/Desktop/pz22_2zadanie/cmake-build-debug/CMakeFiles/untitled.dir
+C:/Users/seven/Desktop/pz22_2zadanie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/seven/Desktop/pz22_2zadanie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
